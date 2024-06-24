@@ -1,0 +1,28 @@
+.recipes {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.recipe {
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 10px;
+  width: 300px;
+}
+
+.recipe img {
+  max-width: 100%;
+}
+
+.recipe h2 {
+  font-size: 1.5em;
+}
+
+.recipe p {
+  font-size: 1em;
+}
+
+.recipe a {
+  color: blue;
+  text-decoration: none;
+}
